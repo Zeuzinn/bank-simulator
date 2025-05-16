@@ -1,5 +1,4 @@
-# Banco
-# 💰 Simulador Bancário
+# Simulador Bancário
 
 Este projeto implementa uma classe simples de conta bancária com funcionalidades básicas como depósito, saque (com taxa) e exibição de saldo.
 
